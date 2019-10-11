@@ -6,7 +6,7 @@ Python, Perl, Ruby tools I've written.
 - `ip2range.pl` => look at the name 
 - `range_ipv4.pl`	=> look at the name
 - `spider.pl` => look at the name 
-- `bing_wallpaper_crawl.py` => bing HD image crawler 83 pages deep
-- `log.py' => does what you think it does
+- `bing_wallpaper_crawl.py` => bing HD image crawler 83 pages deep  
+- `log.py` => does what you think it does
 
 
